@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/mqtt_test.unity
+- path: Assets/Scenes/MQTT_Display.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
